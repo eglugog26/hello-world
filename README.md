@@ -1,3 +1,4 @@
 # hello-world
 This repository is for practicing the GitHub Flow
-I'm a Computer Science major at Georgia Southern University
+About Me:
+My name is Eimy Lugo, and I am a Computer Science major at Georgia Southern University
